@@ -40,4 +40,9 @@ To do the download, the script will
 
  If those sites have all become defunct, you might try here for more scihub sites or try telegram
  reddit or your other sources. 
+
+ You'll have to install things like curl:
+ sudo apt install curl
+ sudo apt install wget
+ sudo apt install python3-full
  
